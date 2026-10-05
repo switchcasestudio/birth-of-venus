@@ -29,7 +29,7 @@ This project was built using a variety of technologies and tools. Here's a list 
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Object-ions/birth-of-venus.git
+git clone https://github.com/switchcasestudio/birth-of-venus.git
 cd birth-of-venus
 npm install
 ```
